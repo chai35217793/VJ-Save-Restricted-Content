@@ -10,4 +10,4 @@ API_ID = int(os.environ.get("API_ID", "22420997"))
 API_HASH = os.environ.get("API_HASH", "d7fbe2036e9ed2a1468fad5a5584a255")
 
 #Database 
-DB_URI = os.environ.get("DB_URI", "")
+DB_URI = os.environ.get("DB_URI", "mongosh "mongodb+srv://bluster.ecuxl3h.mongodb.net/" --apiVersion 1 --username Monster")
